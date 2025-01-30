@@ -1,2 +1,3 @@
 This is FileB
 branch new featureAs
+changing merger
